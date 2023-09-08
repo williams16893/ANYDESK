@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+anydesk.com	TRUE	/	FALSE	1999999999	JSESSIONID	380EB1E34858735C63AEC162A557391D
+
